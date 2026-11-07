@@ -1,0 +1,28 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy dragon (omarchy)
+
+[colors.primary]
+background = '#180D15'
+foreground = '#EBE5D6'
+
+[colors.normal]
+black = '#251218'
+red = '#FF3D5A'
+green = '#78A682'
+yellow = '#F7E1C7'
+blue = '#5298C4'
+magenta = '#C479A9'
+cyan = '#7ABAA9'
+white = '#EBE5D6'
+
+[colors.bright]
+black = '#3A1A22'
+red = '#FF3D5A'
+green = '#93C999'
+yellow = '#FFF6EA'
+blue = '#7AAFD0'
+magenta = '#D995BB'
+cyan = '#95CACA'
+white = '#FFFFFF'

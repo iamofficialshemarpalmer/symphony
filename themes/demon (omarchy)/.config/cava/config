@@ -1,0 +1,13 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy demon (omarchy)
+
+[color]
+background = 'default'
+gradient = 1
+gradient_count = 4
+gradient_color_1 = '#4A4E3D'
+gradient_color_2 = '#7B726A'
+gradient_color_3 = '#7A7D80'
+gradient_color_4 = '#3A403B'

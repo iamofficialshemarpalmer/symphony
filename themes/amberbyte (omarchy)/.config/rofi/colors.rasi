@@ -1,0 +1,31 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy amberbyte (omarchy) */
+
+* {
+    primary: #bebebe;
+    primary-container: #e68e0d;
+    on-primary: #121212;
+    on-primary-container: #bebebe;
+    secondary: #D35F5F;
+    secondary-container: #8a8a8d;
+    on-secondary: #121212;
+    on-secondary-container: #bebebe;
+    surface: #121212;
+    surface-dim: #121212;
+    surface-bright: #8a8a8d;
+    surface-container-lowest: #121212;
+    surface-container-low: #121212;
+    surface-container: #8a8a8d;
+    surface-container-high: #8a8a8d;
+    surface-container-highest: #8a8a8d;
+    on-surface: #121212;
+    on-surface-variant: #bebebe;
+    outline: #8a8a8d;
+    outline-variant: #8a8a8d;
+    error: #D35F5F;
+    on-error: #121212;
+    inverse-surface: #121212;
+    inverse-on-surface: #121212;
+}

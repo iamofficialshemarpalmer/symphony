@@ -1,0 +1,42 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy caroline-skyline (omarchy) */
+
+.theme-dark, .theme-light {
+    --background-primary: #1c1213;
+    --background-primary-alt: #302627;
+    --background-secondary: #302627;
+    --background-secondary-alt: #302627;
+    --background-modifier-hover: #302627;
+    --background-modifier-border: #6d4745;
+
+    --text-normal: #e3a68c;
+    --text-muted: #a87569;
+    --text-faint: #6d4745;
+    --text-on-accent: #1c1213;
+
+    --interactive-accent: #684c59;
+    --interactive-accent-hover: #6b6566;
+    --text-accent: #684c59;
+    --text-accent-hover: #6b6566;
+
+    --link-color: #684c59;
+    --link-color-hover: #6b6566;
+    --link-external-color: #6b6566;
+
+    --code-background: #302627;
+    --code-normal: #e3a68c;
+
+    --text-error: #c24f57;
+    --text-success: #806c61;
+    --text-warning: #f28171;
+
+    --divider-color: #6d4745;
+    --icon-color: #a87569;
+    --icon-color-hover: #e3a68c;
+    --tag-color: #a63650;
+    --tag-background: #302627;
+}
+
+::selection { background: #684c5940; }

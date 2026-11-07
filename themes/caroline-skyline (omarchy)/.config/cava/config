@@ -1,0 +1,13 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy caroline-skyline (omarchy)
+
+[color]
+background = 'default'
+gradient = 1
+gradient_count = 4
+gradient_color_1 = '#684c59'
+gradient_color_2 = '#a63650'
+gradient_color_3 = '#6b6566'
+gradient_color_4 = '#806c61'

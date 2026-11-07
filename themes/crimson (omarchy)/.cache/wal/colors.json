@@ -1,0 +1,28 @@
+{
+    "_comment": "Symphony Generated - Omarchy crimson (omarchy)",
+    "wallpaper": "/home/kpalmer/dotfiles/themes/crimson (omarchy)/wallpaper",
+    "alpha": "100",
+    "special": {
+        "background": "#1A1621",
+        "foreground": "#ffffff",
+        "cursor": "#b7acc8"
+    },
+    "colors": {
+        "color0": "#1A1621",
+        "color1": "#b17777",
+        "color2": "#E48A3E",
+        "color3": "#DA884A",
+        "color4": "#9e96c0",
+        "color5": "#bba7be",
+        "color6": "#b7acc8",
+        "color7": "#FEFDFD",
+        "color8": "#4c4756",
+        "color9": "#d4b0b0",
+        "color10": "#f4ba8a",
+        "color11": "#eeba92",
+        "color12": "#d2cee3",
+        "color13": "#e4dbe5",
+        "color14": "#e7e3ed",
+        "color15": "#ffffff"
+    }
+}

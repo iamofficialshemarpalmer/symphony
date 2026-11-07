@@ -53,6 +53,8 @@ choice=$(menu | rofi -i -dmenu -p "" \
 if [[ "$choice" == "$current_theme" ]]; then
 	notify-send "Already using $choice"
 	exit 0
+
+	spicetify apply > /dev/null 2>&1 &
 fi
 
 "$symphony" switch "$choice"

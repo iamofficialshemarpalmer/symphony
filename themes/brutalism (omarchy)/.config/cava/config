@@ -1,0 +1,13 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy brutalism (omarchy)
+
+[color]
+background = 'default'
+gradient = 1
+gradient_count = 4
+gradient_color_1 = '#ce5757'
+gradient_color_2 = '#c87777'
+gradient_color_3 = '#d48484'
+gradient_color_4 = '#630a0a'

@@ -1,0 +1,13 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy crimson (omarchy)
+
+[color]
+background = 'default'
+gradient = 1
+gradient_count = 4
+gradient_color_1 = '#9e96c0'
+gradient_color_2 = '#bba7be'
+gradient_color_3 = '#b7acc8'
+gradient_color_4 = '#E48A3E'

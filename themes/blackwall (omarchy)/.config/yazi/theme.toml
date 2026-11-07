@@ -1,0 +1,62 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy blackwall (omarchy)
+
+[mgr]
+cwd = { fg = "#ff3535" }
+
+find_keyword = { fg = "#742323", bold = true, italic = true, underline = true }
+find_position = { fg = "#742323", bold = true, italic = true }
+
+marker_copied = { fg = "#742323", bg = "#742323" }
+marker_cut = { fg = "#ff0000", bg = "#ff0000" }
+marker_marked = { fg = "#451d1d", bg = "#451d1d" }
+marker_selected = { fg = "#ff3535", bg = "#ff3535" }
+
+count_copied = { fg = "#171717", bg = "#742323" }
+count_cut = { fg = "#171717", bg = "#ff0000" }
+count_selected = { fg = "#171717", bg = "#ff3535" }
+
+border_symbol = " "
+border_style = { fg = "#ff3535" }
+
+[status]
+sep_left = { open = "", close = "🭠" }
+sep_right = { open = "🭁", close = "" }
+
+perm_type = { fg = "#ff3535" }
+perm_read = { fg = "#742323" }
+perm_write = { fg = "#451d1d" }
+perm_exec = { fg = "#ff0000" }
+perm_sep = { fg = "#ff3535" }
+
+progress_label = { bold = true }
+progress_normal = { fg = "#ff3535", bg = "#2b2b2b" }
+progress_error = { fg = "#ff0000", bg = "#2b2b2b" }
+
+[mode]
+normal_main = { bg = "#ff3535", fg = "#171717", bold = true }
+normal_alt = { bg = "#2b2b2b", fg = "#ff3535" }
+
+select_main = { bg = "#ff3535", fg = "#171717", bold = true }
+select_alt = { bg = "#2b2b2b", fg = "#ff3535" }
+
+unset_main = { bg = "#742323", fg = "#171717", bold = true }
+unset_alt = { bg = "#2b2b2b", fg = "#ff3535" }
+
+[select]
+border = { fg = "#ff3535" }
+active = { fg = "#742323", bold = true }
+
+[input]
+border = { fg = "#ff3535" }
+value = { fg = "#ff3535" }
+
+[tabs]
+active = { fg = "#ff3535", bold = true, bg = "#171717" }
+inactive = { fg = "#932727", bg = "#171717" }
+sep_inner = { open = "[", close = "]" }
+
+[cmp]
+border = { fg = "#ff3535", bg = "#171717" }

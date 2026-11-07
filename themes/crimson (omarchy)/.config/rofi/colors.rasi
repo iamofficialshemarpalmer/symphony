@@ -1,0 +1,31 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy crimson (omarchy) */
+
+* {
+    primary: #b7acc8;
+    primary-container: #9e96c0;
+    on-primary: #1A1621;
+    on-primary-container: #ffffff;
+    secondary: #bba7be;
+    secondary-container: #4c4756;
+    on-secondary: #1A1621;
+    on-secondary-container: #ffffff;
+    surface: #1A1621;
+    surface-dim: #1A1621;
+    surface-bright: #4c4756;
+    surface-container-lowest: #1A1621;
+    surface-container-low: #1A1621;
+    surface-container: #4c4756;
+    surface-container-high: #4c4756;
+    surface-container-highest: #4c4756;
+    on-surface: #1A1621;
+    on-surface-variant: #FEFDFD;
+    outline: #4c4756;
+    outline-variant: #4c4756;
+    error: #b17777;
+    on-error: #1A1621;
+    inverse-surface: #1A1621;
+    inverse-on-surface: #1A1621;
+}

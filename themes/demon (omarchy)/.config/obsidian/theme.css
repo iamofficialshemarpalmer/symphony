@@ -1,0 +1,42 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy demon (omarchy) */
+
+.theme-dark, .theme-light {
+    --background-primary: #0F0F0F;
+    --background-primary-alt: #232323;
+    --background-secondary: #232323;
+    --background-secondary-alt: #232323;
+    --background-modifier-hover: #232323;
+    --background-modifier-border: #292828;
+
+    --text-normal: #E0D4C2;
+    --text-muted: #BDB5AA;
+    --text-faint: #292828;
+    --text-on-accent: #0F0F0F;
+
+    --interactive-accent: #4A4E3D;
+    --interactive-accent-hover: #7A7D80;
+    --text-accent: #4A4E3D;
+    --text-accent-hover: #7A7D80;
+
+    --link-color: #4A4E3D;
+    --link-color-hover: #7A7D80;
+    --link-external-color: #7A7D80;
+
+    --code-background: #232323;
+    --code-normal: #E0D4C2;
+
+    --text-error: #8B0000;
+    --text-success: #3A403B;
+    --text-warning: #E24C00;
+
+    --divider-color: #292828;
+    --icon-color: #BDB5AA;
+    --icon-color-hover: #E0D4C2;
+    --tag-color: #7B726A;
+    --tag-background: #232323;
+}
+
+::selection { background: #4A4E3D40; }

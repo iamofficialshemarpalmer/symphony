@@ -1,0 +1,31 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy caroline-skyline (omarchy) */
+
+* {
+    primary: #6b6566;
+    primary-container: #684c59;
+    on-primary: #1c1213;
+    on-primary-container: #e3a68c;
+    secondary: #a63650;
+    secondary-container: #6d4745;
+    on-secondary: #1c1213;
+    on-secondary-container: #e3a68c;
+    surface: #1c1213;
+    surface-dim: #1c1213;
+    surface-bright: #6d4745;
+    surface-container-lowest: #1c1213;
+    surface-container-low: #1c1213;
+    surface-container: #6d4745;
+    surface-container-high: #6d4745;
+    surface-container-highest: #6d4745;
+    on-surface: #1c1213;
+    on-surface-variant: #a87569;
+    outline: #6d4745;
+    outline-variant: #6d4745;
+    error: #c24f57;
+    on-error: #1c1213;
+    inverse-surface: #1c1213;
+    inverse-on-surface: #1c1213;
+}

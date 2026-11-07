@@ -1,0 +1,42 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy aamis (omarchy) */
+
+.theme-dark, .theme-light {
+    --background-primary: #0f0f0f;
+    --background-primary-alt: #232323;
+    --background-secondary: #232323;
+    --background-secondary-alt: #232323;
+    --background-modifier-hover: #232323;
+    --background-modifier-border: #706a6a;
+
+    --text-normal: #eadccc;
+    --text-muted: #e6caab;
+    --text-faint: #706a6a;
+    --text-on-accent: #0f0f0f;
+
+    --interactive-accent: #e2be8a;
+    --interactive-accent-hover: #e8ab3b;
+    --text-accent: #e2be8a;
+    --text-accent-hover: #e8ab3b;
+
+    --link-color: #e2be8a;
+    --link-color-hover: #e8ab3b;
+    --link-external-color: #e8ab3b;
+
+    --code-background: #232323;
+    --code-normal: #eadccc;
+
+    --text-error: #e25d6c;
+    --text-success: #cea37f;
+    --text-warning: #f4bb54;
+
+    --divider-color: #706a6a;
+    --icon-color: #e6caab;
+    --icon-color-hover: #eadccc;
+    --tag-color: #ede4c8;
+    --tag-background: #232323;
+}
+
+::selection { background: #e2be8a40; }

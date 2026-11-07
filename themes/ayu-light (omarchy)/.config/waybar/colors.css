@@ -1,0 +1,10 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy ayu-light (omarchy) */
+
+@define-color waybar_accent rgba(92, 97, 102, 0.18);
+@define-color waybar_accent_fg @on_background;
+@define-color on_background #5c6166;
+@define-color surface_container #000000;
+@define-color error #ea6c6d;

@@ -1,0 +1,42 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy dotrb (omarchy) */
+
+.theme-dark, .theme-light {
+    --background-primary: #121212;
+    --background-primary-alt: #262626;
+    --background-secondary: #262626;
+    --background-secondary-alt: #262626;
+    --background-modifier-hover: #262626;
+    --background-modifier-border: #949494;
+
+    --text-normal: #f5f5f5;
+    --text-muted: #d5d5d5;
+    --text-faint: #949494;
+    --text-on-accent: #121212;
+
+    --interactive-accent: #4A8B8B;
+    --interactive-accent-hover: #b4b4b4;
+    --text-accent: #4A8B8B;
+    --text-accent-hover: #b4b4b4;
+
+    --link-color: #4A8B8B;
+    --link-color-hover: #b4b4b4;
+    --link-external-color: #b4b4b4;
+
+    --code-background: #262626;
+    --code-normal: #f5f5f5;
+
+    --text-error: #D66E36;
+    --text-success: #B14242;
+    --text-warning: #F0BE66;
+
+    --divider-color: #949494;
+    --icon-color: #d5d5d5;
+    --icon-color-hover: #f5f5f5;
+    --tag-color: #a7a7a7;
+    --tag-background: #262626;
+}
+
+::selection { background: #4A8B8B40; }

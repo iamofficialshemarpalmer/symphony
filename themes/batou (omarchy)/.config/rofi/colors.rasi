@@ -1,0 +1,31 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy batou (omarchy) */
+
+* {
+    primary: #C2BBB0;
+    primary-container: #605d5b;
+    on-primary: #121212;
+    on-primary-container: #a4a4a4;
+    secondary: #8a8575;
+    secondary-container: #383735;
+    on-secondary: #121212;
+    on-secondary-container: #a4a4a4;
+    surface: #121212;
+    surface-dim: #121212;
+    surface-bright: #383735;
+    surface-container-lowest: #121212;
+    surface-container-low: #121212;
+    surface-container: #383735;
+    surface-container-high: #383735;
+    surface-container-highest: #383735;
+    on-surface: #121212;
+    on-surface-variant: #dbd9d3;
+    outline: #383735;
+    outline-variant: #383735;
+    error: #e19e74;
+    on-error: #121212;
+    inverse-surface: #121212;
+    inverse-on-surface: #121212;
+}

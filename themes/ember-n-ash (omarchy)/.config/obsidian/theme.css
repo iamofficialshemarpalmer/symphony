@@ -1,0 +1,42 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy ember-n-ash (omarchy) */
+
+.theme-dark, .theme-light {
+    --background-primary: #1a1a1a;
+    --background-primary-alt: #2e2e2e;
+    --background-secondary: #2e2e2e;
+    --background-secondary-alt: #2e2e2e;
+    --background-modifier-hover: #2e2e2e;
+    --background-modifier-border: #2a2a2a;
+
+    --text-normal: #e5d6c6;
+    --text-muted: #d1c0b0;
+    --text-faint: #2a2a2a;
+    --text-on-accent: #1a1a1a;
+
+    --interactive-accent: #6c5b4c;
+    --interactive-accent-hover: #a98274;
+    --text-accent: #6c5b4c;
+    --text-accent-hover: #a98274;
+
+    --link-color: #6c5b4c;
+    --link-color-hover: #a98274;
+    --link-external-color: #a98274;
+
+    --code-background: #2e2e2e;
+    --code-normal: #e5d6c6;
+
+    --text-error: #d45d4c;
+    --text-success: #9e8f70;
+    --text-warning: #d9a066;
+
+    --divider-color: #2a2a2a;
+    --icon-color: #d1c0b0;
+    --icon-color-hover: #e5d6c6;
+    --tag-color: #b57276;
+    --tag-background: #2e2e2e;
+}
+
+::selection { background: #6c5b4c40; }

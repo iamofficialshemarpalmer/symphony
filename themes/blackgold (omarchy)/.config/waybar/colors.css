@@ -1,0 +1,10 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy blackgold (omarchy) */
+
+@define-color waybar_accent rgba(235, 219, 178, 0.18);
+@define-color waybar_accent_fg @on_background;
+@define-color on_background #ebdbb2;
+@define-color surface_container #0D0D0D;
+@define-color error #D35F5F;

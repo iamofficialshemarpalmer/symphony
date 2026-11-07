@@ -1,0 +1,28 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy dotrb (omarchy)
+
+[colors.primary]
+background = '#121212'
+foreground = '#f5f5f5'
+
+[colors.normal]
+black = '#121212'
+red = '#D66E36'
+green = '#B14242'
+yellow = '#F0BE66'
+blue = '#4A8B8B'
+magenta = '#a7a7a7'
+cyan = '#b4b4b4'
+white = '#d5d5d5'
+
+[colors.bright]
+black = '#949494'
+red = '#D66E36'
+green = '#B14242'
+yellow = '#F0BE66'
+blue = '#4A8B8B'
+magenta = '#a7a7a7'
+cyan = '#b4b4b4'
+white = '#d5d5d5'

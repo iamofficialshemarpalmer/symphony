@@ -1,0 +1,31 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy blackgold (omarchy) */
+
+* {
+    primary: #7A6A2C;
+    primary-container: #6E6A58;
+    on-primary: #0D0D0D;
+    on-primary-container: #ebdbb2;
+    secondary: #BFA75D;
+    secondary-container: #303531;
+    on-secondary: #0D0D0D;
+    on-secondary-container: #ebdbb2;
+    surface: #0D0D0D;
+    surface-dim: #0D0D0D;
+    surface-bright: #303531;
+    surface-container-lowest: #0D0D0D;
+    surface-container-low: #0D0D0D;
+    surface-container: #303531;
+    surface-container-high: #303531;
+    surface-container-highest: #303531;
+    on-surface: #0D0D0D;
+    on-surface-variant: #F6F1DD;
+    outline: #303531;
+    outline-variant: #303531;
+    error: #D35F5F;
+    on-error: #0D0D0D;
+    inverse-surface: #0D0D0D;
+    inverse-on-surface: #0D0D0D;
+}

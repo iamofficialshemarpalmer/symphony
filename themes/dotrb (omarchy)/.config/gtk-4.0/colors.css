@@ -1,0 +1,67 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy dotrb (omarchy) */
+
+@define-color background #121212;
+@define-color foreground #f5f5f5;
+@define-color black #121212;
+@define-color red #D66E36;
+@define-color green #B14242;
+@define-color yellow #F0BE66;
+@define-color blue #4A8B8B;
+@define-color magenta #a7a7a7;
+@define-color cyan #b4b4b4;
+@define-color white #d5d5d5;
+@define-color bright_black #949494;
+@define-color bright_white #d5d5d5;
+@define-color accent_bg_color #4A8B8B;
+@define-color accent_fg_color #121212;
+@define-color accent_color #4A8B8B;
+@define-color window_bg_color #121212;
+@define-color window_fg_color #f5f5f5;
+@define-color view_bg_color #121212;
+@define-color view_fg_color #f5f5f5;
+@define-color sidebar_bg_color #262626;
+@define-color sidebar_fg_color #f5f5f5;
+@define-color sidebar_backdrop_color #121212;
+@define-color sidebar_shade_color #121212;
+@define-color headerbar_bg_color #262626;
+@define-color headerbar_fg_color #f5f5f5;
+@define-color headerbar_backdrop_color #121212;
+@define-color headerbar_shade_color #121212;
+@define-color card_bg_color #262626;
+@define-color card_fg_color #f5f5f5;
+@define-color popover_bg_color #262626;
+@define-color popover_fg_color #f5f5f5;
+@define-color dialog_bg_color #262626;
+@define-color dialog_fg_color #f5f5f5;
+@define-color destructive_bg_color #D66E36;
+@define-color destructive_fg_color #121212;
+@define-color destructive_color #D66E36;
+@define-color success_bg_color #B14242;
+@define-color success_fg_color #121212;
+@define-color success_color #B14242;
+@define-color warning_bg_color #F0BE66;
+@define-color warning_fg_color #121212;
+@define-color warning_color #F0BE66;
+@define-color error_bg_color #D66E36;
+@define-color error_fg_color #121212;
+@define-color error_color #D66E36;
+@define-color borders alpha(@foreground, 0.1);
+@define-color theme_fg_color @foreground;
+@define-color theme_text_color @foreground;
+@define-color theme_bg_color @background;
+@define-color theme_base_color @black;
+@define-color theme_selected_bg_color @accent_bg_color;
+@define-color theme_selected_fg_color @accent_fg_color;
+@define-color insensitive_bg_color @background;
+@define-color insensitive_fg_color @bright_black;
+@define-color insensitive_base_color @black;
+messagedialog { background-color: @dialog_bg_color; }
+messagedialog label { color: @dialog_fg_color; }
+banner revealer widget { background: @bright_black; padding: 5px; color: @foreground; }
+alertdialog.background { background-color: @dialog_bg_color; color: @dialog_fg_color; }
+alertdialog box { background-color: @dialog_bg_color; }
+alertdialog label { color: @dialog_fg_color; }
+toast { background-color: @card_bg_color; color: @foreground; }

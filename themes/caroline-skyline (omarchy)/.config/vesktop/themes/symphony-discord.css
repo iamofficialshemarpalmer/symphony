@@ -1,0 +1,60 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+
+   Theme: Omarchy caroline-skyline (omarchy)
+   Based on midnight by refact0r
+   https://github.com/refact0r/midnight-discord */
+
+@import url('https://refact0r.github.io/midnight-discord/build/midnight.css');
+
+:root {
+    --font: 'figtree';
+    --corner-text: 'Symphony';
+
+    /* status indicators */
+    --online-indicator: #806c61;
+    --dnd-indicator: #c24f57;
+    --idle-indicator: #f28171;
+    --streaming-indicator: #a63650;
+
+    /* accent colors */
+    --accent-1: #684c59;
+    --accent-2: #684c59;
+    --accent-3: #684c59;
+    --accent-4: #361a27;
+    --accent-5: #4f3340;
+    --mention: #361a27;
+    --mention-hover: #4f3340;
+
+    /* text colors */
+    --text-0: #1c1213;
+    --text-1: #e3a68c;
+    --text-2: #e3a68c;
+    --text-3: #a87569;
+    --text-4: #6d4745;
+    --text-5: #6d4745;
+
+    /* background colors */
+    --bg-1: #1c1213;
+    --bg-2: #302627;
+    --bg-3: #302627;
+    --bg-4: #1c1213;
+    --hover: #302627;
+    --active: #684c59;
+    --message-hover: #302627;
+
+    /* corner roundness */
+    --roundness-xl: 22px;
+    --roundness-l: 20px;
+    --roundness-m: 16px;
+    --roundness-s: 12px;
+    --roundness-xs: 10px;
+    --roundness-xxs: 8px;
+
+    --discord-icon: none;
+    --moon-icon: block;
+}
+
+.selected_f5eb4b, .selected_f6f816 .link_d8bfb3 { color: var(--text-0) !important; background: var(--accent-3) !important; }
+.selected_f6f816 .link_d8bfb3 * { color: var(--text-0) !important; fill: var(--text-0) !important; }

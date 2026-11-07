@@ -1,0 +1,10 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy amberbyte (omarchy) */
+
+@define-color waybar_accent rgba(190, 190, 190, 0.18);
+@define-color waybar_accent_fg @on_background;
+@define-color on_background #bebebe;
+@define-color surface_container #333333;
+@define-color error #D35F5F;

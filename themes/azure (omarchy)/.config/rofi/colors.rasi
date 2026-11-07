@@ -1,0 +1,31 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy azure (omarchy) */
+
+* {
+    primary: #5693C4;
+    primary-container: #8da1c8;
+    on-primary: #182538;
+    on-primary-container: #eff3f8;
+    secondary: #a0adc5;
+    secondary-container: #49586d;
+    on-secondary: #182538;
+    on-secondary-container: #eff3f8;
+    surface: #182538;
+    surface-dim: #182538;
+    surface-bright: #49586d;
+    surface-container-lowest: #182538;
+    surface-container-low: #182538;
+    surface-container: #49586d;
+    surface-container-high: #49586d;
+    surface-container-highest: #49586d;
+    on-surface: #182538;
+    on-surface-variant: #B2C5D9;
+    outline: #49586d;
+    outline-variant: #49586d;
+    error: #969293;
+    on-error: #182538;
+    inverse-surface: #182538;
+    inverse-on-surface: #182538;
+}

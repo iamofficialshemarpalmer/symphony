@@ -1,0 +1,31 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy ayu-light (omarchy) */
+
+* {
+    primary: #46ba94;
+    primary-container: #3199e1;
+    on-primary: #f8f9fa;
+    on-primary-container: #5c6166;
+    secondary: #9e75c7;
+    secondary-container: #686868;
+    on-secondary: #f8f9fa;
+    on-secondary-container: #5c6166;
+    surface: #f8f9fa;
+    surface-dim: #f8f9fa;
+    surface-bright: #686868;
+    surface-container-lowest: #f8f9fa;
+    surface-container-low: #f8f9fa;
+    surface-container: #686868;
+    surface-container-high: #686868;
+    surface-container-highest: #686868;
+    on-surface: #f8f9fa;
+    on-surface-variant: #c7c7c7;
+    outline: #686868;
+    outline-variant: #686868;
+    error: #ea6c6d;
+    on-error: #f8f9fa;
+    inverse-surface: #f8f9fa;
+    inverse-on-surface: #f8f9fa;
+}

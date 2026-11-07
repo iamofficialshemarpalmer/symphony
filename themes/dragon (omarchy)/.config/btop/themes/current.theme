@@ -1,0 +1,79 @@
+# Dragon's Shadow theme based on the Red Dragon Wallpaper
+# by [Red Dragon]
+
+# Colors should be in 6 or 2 character hexadecimal or single spaced rgb decimal: "#RRGGBB", "#BW" or "0-255 0-255 0-255"
+# example for white: "#ffffff", "#ff" or "255 255 255".
+
+# Main background, empty for terminal default, need to be empty if you want transparent background
+theme[main_bg]="#180D15"
+
+# Main text color
+theme[main_fg]="#EBE5D6"
+
+# Title color for boxes (Primary Red)
+theme[title]="#FF3D5A"
+
+# Highlight color for keyboard shortcuts (Glow White)
+theme[hi_fg]="#F7E1C7"
+
+# Background color of selected item in processes box (Lighter Dark Tone)
+theme[selected_bg]="#3A1A22"
+
+# Foreground color of selected item in processes box (Pure White)
+theme[selected_fg]="#FFFFFF"
+
+# Color of inactive/disabled text (Muted Shadow Tone)
+theme[inactive_fg]="#3A1A22"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text (Blue from palette)
+theme[proc_misc]="#5298C4"
+
+# Box outline color (Muted Shadow Tone)
+theme[cpu_box]="#3A1A22"
+theme[mem_box]="#3A1A22"
+theme[net_box]="#3A1A22"
+theme[proc_box]="#3A1A22"
+theme[div_line]="#3A1A22"
+
+
+# ** GRAPHS AND METERS **
+
+# Temperature graph colors (Red -> Glow -> White)
+theme[temp_start]="#FF3D5A"
+theme[temp_mid]="#F7E1C7"
+theme[temp_end]="#FFFFFF"
+
+# CPU graph colors (Red -> Glow -> White)
+theme[cpu_start]="#FF3D5A"
+theme[cpu_mid]="#F7E1C7"
+theme[cpu_end]="#FFFFFF"
+
+# Mem/Disk free meter (Cool colors: Blue/Cyan/Green)
+theme[free_start]="#5298C4"
+theme[free_mid]="#7ABAA9"
+theme[free_end]="#78A682"
+
+# Mem/Disk cached meter (Magenta)
+theme[cached_start]="#C479A9"
+theme[cached_mid]="#D995BB"
+theme[cached_end]="#C479A9"
+
+# Mem/Disk available meter (Glow/Yellow)
+theme[available_start]="#F7E1C7"
+theme[available_mid]="#F7E1C7"
+theme[available_end]="#FFF6EA"
+
+# Mem/Disk used meter (Hot colors: Red -> Glow -> White)
+theme[used_start]="#FF3D5A"
+theme[used_mid]="#F7E1C7"
+theme[used_end]="#FFFFFF"
+
+# Download graph colors (Cool colors: Blue -> Cyan -> Green)
+theme[download_start]="#5298C4"
+theme[download_mid]="#7ABAA9"
+theme[download_end]="#78A682"
+
+# Upload graph colors (Hot colors: Red -> Glow -> White)
+theme[upload_start]="#FF3D5A"
+theme[upload_mid]="#F7E1C7"
+theme[upload_end]="#FFFFFF"

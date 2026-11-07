@@ -1,0 +1,31 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy futurism (omarchy) */
+
+* {
+    primary: #F0F8FF;
+    primary-container: #F0F8FF;
+    on-primary: #0A1428;
+    on-primary-container: #F0F8FF;
+    secondary: #FF40A3;
+    secondary-container: #F0F8FF;
+    on-secondary: #0A1428;
+    on-secondary-container: #F0F8FF;
+    surface: #0A1428;
+    surface-dim: #0A1428;
+    surface-bright: #F0F8FF;
+    surface-container-lowest: #0A1428;
+    surface-container-low: #0A1428;
+    surface-container: #F0F8FF;
+    surface-container-high: #F0F8FF;
+    surface-container-highest: #F0F8FF;
+    on-surface: #0A1428;
+    on-surface-variant: #F0F8FF;
+    outline: #F0F8FF;
+    outline-variant: #F0F8FF;
+    error: #FF40A3;
+    on-error: #0A1428;
+    inverse-surface: #0A1428;
+    inverse-on-surface: #0A1428;
+}

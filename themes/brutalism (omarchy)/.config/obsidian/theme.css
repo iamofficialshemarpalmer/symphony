@@ -1,0 +1,42 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy brutalism (omarchy) */
+
+.theme-dark, .theme-light {
+    --background-primary: #121212;
+    --background-primary-alt: #262626;
+    --background-secondary: #262626;
+    --background-secondary-alt: #262626;
+    --background-modifier-hover: #262626;
+    --background-modifier-border: #b89494;
+
+    --text-normal: #ded3d3;
+    --text-muted: #d1c7c7;
+    --text-faint: #b89494;
+    --text-on-accent: #121212;
+
+    --interactive-accent: #ce5757;
+    --interactive-accent-hover: #d48484;
+    --text-accent: #ce5757;
+    --text-accent-hover: #d48484;
+
+    --link-color: #ce5757;
+    --link-color-hover: #d48484;
+    --link-external-color: #d48484;
+
+    --code-background: #262626;
+    --code-normal: #ded3d3;
+
+    --text-error: #450404;
+    --text-success: #630a0a;
+    --text-warning: #cc7a7a;
+
+    --divider-color: #b89494;
+    --icon-color: #d1c7c7;
+    --icon-color-hover: #ded3d3;
+    --tag-color: #c87777;
+    --tag-background: #262626;
+}
+
+::selection { background: #ce575740; }

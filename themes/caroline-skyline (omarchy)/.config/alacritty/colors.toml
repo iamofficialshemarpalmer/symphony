@@ -1,0 +1,28 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy caroline-skyline (omarchy)
+
+[colors.primary]
+background = '#1c1213'
+foreground = '#e3a68c'
+
+[colors.normal]
+black = '#1c1213'
+red = '#c24f57'
+green = '#806c61'
+yellow = '#f28171'
+blue = '#684c59'
+magenta = '#a63650'
+cyan = '#6b6566'
+white = '#a87569'
+
+[colors.bright]
+black = '#6d4745'
+red = '#c24f57'
+green = '#806c61'
+yellow = '#f28171'
+blue = '#684c59'
+magenta = '#a63650'
+cyan = '#6b6566'
+white = '#e3a68c'

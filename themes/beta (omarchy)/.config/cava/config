@@ -1,0 +1,13 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy beta (omarchy)
+
+[color]
+background = 'default'
+gradient = 1
+gradient_count = 4
+gradient_color_1 = '#5090f8'
+gradient_color_2 = '#9d58f0'
+gradient_color_3 = '#53d0bc'
+gradient_color_4 = '#7ad573'

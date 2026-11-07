@@ -1,0 +1,31 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy ember-n-ash (omarchy) */
+
+* {
+    primary: #a98274;
+    primary-container: #6c5b4c;
+    on-primary: #1a1a1a;
+    on-primary-container: #e5d6c6;
+    secondary: #b57276;
+    secondary-container: #2a2a2a;
+    on-secondary: #1a1a1a;
+    on-secondary-container: #e5d6c6;
+    surface: #1a1a1a;
+    surface-dim: #1a1a1a;
+    surface-bright: #2a2a2a;
+    surface-container-lowest: #1a1a1a;
+    surface-container-low: #1a1a1a;
+    surface-container: #2a2a2a;
+    surface-container-high: #2a2a2a;
+    surface-container-highest: #2a2a2a;
+    on-surface: #1a1a1a;
+    on-surface-variant: #d1c0b0;
+    outline: #2a2a2a;
+    outline-variant: #2a2a2a;
+    error: #d45d4c;
+    on-error: #1a1a1a;
+    inverse-surface: #1a1a1a;
+    inverse-on-surface: #1a1a1a;
+}

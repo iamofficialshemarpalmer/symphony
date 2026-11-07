@@ -1,0 +1,13 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy azure (omarchy)
+
+[color]
+background = 'default'
+gradient = 1
+gradient_count = 4
+gradient_color_1 = '#8da1c8'
+gradient_color_2 = '#a0adc5'
+gradient_color_3 = '#5693C4'
+gradient_color_4 = '#61a7d6'

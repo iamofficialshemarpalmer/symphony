@@ -1,0 +1,31 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy firesky (omarchy) */
+
+* {
+    primary: #40b8b4;
+    primary-container: #2a7a80;
+    on-primary: #0f0f0f;
+    on-primary-container: #e0d8d0;
+    secondary: #c4753d;
+    secondary-container: #4d6b6b;
+    on-secondary: #0f0f0f;
+    on-secondary-container: #e0d8d0;
+    surface: #0f0f0f;
+    surface-dim: #0f0f0f;
+    surface-bright: #4d6b6b;
+    surface-container-lowest: #0f0f0f;
+    surface-container-low: #0f0f0f;
+    surface-container: #4d6b6b;
+    surface-container-high: #4d6b6b;
+    surface-container-highest: #4d6b6b;
+    on-surface: #0f0f0f;
+    on-surface-variant: #d8d0c8;
+    outline: #4d6b6b;
+    outline-variant: #4d6b6b;
+    error: #e6441a;
+    on-error: #0f0f0f;
+    inverse-surface: #0f0f0f;
+    inverse-on-surface: #0f0f0f;
+}

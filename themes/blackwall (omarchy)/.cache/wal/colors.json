@@ -1,0 +1,28 @@
+{
+    "_comment": "Symphony Generated - Omarchy blackwall (omarchy)",
+    "wallpaper": "/home/kpalmer/dotfiles/themes/blackwall (omarchy)/wallpaper",
+    "alpha": "100",
+    "special": {
+        "background": "#171717",
+        "foreground": "#ff3535",
+        "cursor": "#742323"
+    },
+    "colors": {
+        "color0": "#171717",
+        "color1": "#ff0000",
+        "color2": "#ff3535",
+        "color3": "#451d1d",
+        "color4": "#ff3535",
+        "color5": "#ff3535",
+        "color6": "#742323",
+        "color7": "#832525",
+        "color8": "#932727",
+        "color9": "#a22929",
+        "color10": "#b22b2b",
+        "color11": "#c12d2d",
+        "color12": "#d12f2f",
+        "color13": "#e03131",
+        "color14": "#f03333",
+        "color15": "#ff3535"
+    }
+}

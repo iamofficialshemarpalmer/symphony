@@ -1,0 +1,42 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy blackgold (omarchy) */
+
+.theme-dark, .theme-light {
+    --background-primary: #0D0D0D;
+    --background-primary-alt: #212121;
+    --background-secondary: #212121;
+    --background-secondary-alt: #212121;
+    --background-modifier-hover: #212121;
+    --background-modifier-border: #303531;
+
+    --text-normal: #ebdbb2;
+    --text-muted: #F6F1DD;
+    --text-faint: #303531;
+    --text-on-accent: #0D0D0D;
+
+    --interactive-accent: #6E6A58;
+    --interactive-accent-hover: #7A6A2C;
+    --text-accent: #6E6A58;
+    --text-accent-hover: #7A6A2C;
+
+    --link-color: #6E6A58;
+    --link-color-hover: #7A6A2C;
+    --link-external-color: #7A6A2C;
+
+    --code-background: #212121;
+    --code-normal: #ebdbb2;
+
+    --text-error: #D35F5F;
+    --text-success: #a3850e;
+    --text-warning: #4D574E;
+
+    --divider-color: #303531;
+    --icon-color: #F6F1DD;
+    --icon-color-hover: #ebdbb2;
+    --tag-color: #BFA75D;
+    --tag-background: #212121;
+}
+
+::selection { background: #6E6A5840; }

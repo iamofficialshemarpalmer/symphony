@@ -1,0 +1,28 @@
+{
+    "_comment": "Symphony Generated - Omarchy anonymous (omarchy)",
+    "wallpaper": "/home/kpalmer/dotfiles/themes/anonymous (omarchy)/wallpaper",
+    "alpha": "100",
+    "special": {
+        "background": "#32302f",
+        "foreground": "#FEFEFE",
+        "cursor": "#85dacc"
+    },
+    "colors": {
+        "color0": "#2c2525",
+        "color1": "#fd6883",
+        "color2": "#adda78",
+        "color3": "#f9cc6c",
+        "color4": "#f38d70",
+        "color5": "#a8a9eb",
+        "color6": "#85dacc",
+        "color7": "#e6d9db",
+        "color8": "#1A1A1A",
+        "color9": "#F5F5F5",
+        "color10": "#BDBDBD",
+        "color11": "#CFCFCF",
+        "color12": "#BDBDBD",
+        "color13": "#BDBDBD",
+        "color14": "#BDBDBD",
+        "color15": "#F5F5F5"
+    }
+}

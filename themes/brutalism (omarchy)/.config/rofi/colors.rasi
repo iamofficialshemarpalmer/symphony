@@ -1,0 +1,31 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy brutalism (omarchy) */
+
+* {
+    primary: #d48484;
+    primary-container: #ce5757;
+    on-primary: #121212;
+    on-primary-container: #ded3d3;
+    secondary: #c87777;
+    secondary-container: #b89494;
+    on-secondary: #121212;
+    on-secondary-container: #ded3d3;
+    surface: #121212;
+    surface-dim: #121212;
+    surface-bright: #b89494;
+    surface-container-lowest: #121212;
+    surface-container-low: #121212;
+    surface-container: #b89494;
+    surface-container-high: #b89494;
+    surface-container-highest: #b89494;
+    on-surface: #121212;
+    on-surface-variant: #d1c7c7;
+    outline: #b89494;
+    outline-variant: #b89494;
+    error: #450404;
+    on-error: #121212;
+    inverse-surface: #121212;
+    inverse-on-surface: #121212;
+}

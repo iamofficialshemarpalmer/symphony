@@ -1,0 +1,31 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy dragon (omarchy) */
+
+* {
+    primary: #7ABAA9;
+    primary-container: #5298C4;
+    on-primary: #180D15;
+    on-primary-container: #EBE5D6;
+    secondary: #C479A9;
+    secondary-container: #3A1A22;
+    on-secondary: #180D15;
+    on-secondary-container: #EBE5D6;
+    surface: #180D15;
+    surface-dim: #180D15;
+    surface-bright: #3A1A22;
+    surface-container-lowest: #180D15;
+    surface-container-low: #180D15;
+    surface-container: #3A1A22;
+    surface-container-high: #3A1A22;
+    surface-container-highest: #3A1A22;
+    on-surface: #180D15;
+    on-surface-variant: #EBE5D6;
+    outline: #3A1A22;
+    outline-variant: #3A1A22;
+    error: #FF3D5A;
+    on-error: #180D15;
+    inverse-surface: #180D15;
+    inverse-on-surface: #180D15;
+}

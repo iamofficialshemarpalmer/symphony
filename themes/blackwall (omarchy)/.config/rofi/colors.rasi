@@ -1,0 +1,31 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy blackwall (omarchy) */
+
+* {
+    primary: #742323;
+    primary-container: #ff3535;
+    on-primary: #171717;
+    on-primary-container: #ff3535;
+    secondary: #ff3535;
+    secondary-container: #932727;
+    on-secondary: #171717;
+    on-secondary-container: #ff3535;
+    surface: #171717;
+    surface-dim: #171717;
+    surface-bright: #932727;
+    surface-container-lowest: #171717;
+    surface-container-low: #171717;
+    surface-container: #932727;
+    surface-container-high: #932727;
+    surface-container-highest: #932727;
+    on-surface: #171717;
+    on-surface-variant: #832525;
+    outline: #932727;
+    outline-variant: #932727;
+    error: #ff0000;
+    on-error: #171717;
+    inverse-surface: #171717;
+    inverse-on-surface: #171717;
+}

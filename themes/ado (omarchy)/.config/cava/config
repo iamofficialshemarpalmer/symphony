@@ -1,0 +1,13 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy ado (omarchy)
+
+[color]
+background = 'default'
+gradient = 1
+gradient_count = 4
+gradient_color_1 = '#4545F5'
+gradient_color_2 = '#25516A'
+gradient_color_3 = '#45C1DD'
+gradient_color_4 = '#014761'

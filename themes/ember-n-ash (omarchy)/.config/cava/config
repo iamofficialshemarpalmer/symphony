@@ -1,0 +1,13 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy ember-n-ash (omarchy)
+
+[color]
+background = 'default'
+gradient = 1
+gradient_count = 4
+gradient_color_1 = '#6c5b4c'
+gradient_color_2 = '#b57276'
+gradient_color_3 = '#a98274'
+gradient_color_4 = '#9e8f70'

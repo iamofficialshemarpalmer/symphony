@@ -1,0 +1,42 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy ayu-light (omarchy) */
+
+.theme-dark, .theme-light {
+    --background-primary: #f8f9fa;
+    --background-primary-alt: #ffffff;
+    --background-secondary: #ffffff;
+    --background-secondary-alt: #ffffff;
+    --background-modifier-hover: #ffffff;
+    --background-modifier-border: #686868;
+
+    --text-normal: #5c6166;
+    --text-muted: #c7c7c7;
+    --text-faint: #686868;
+    --text-on-accent: #f8f9fa;
+
+    --interactive-accent: #3199e1;
+    --interactive-accent-hover: #46ba94;
+    --text-accent: #3199e1;
+    --text-accent-hover: #46ba94;
+
+    --link-color: #3199e1;
+    --link-color-hover: #46ba94;
+    --link-external-color: #46ba94;
+
+    --code-background: #ffffff;
+    --code-normal: #5c6166;
+
+    --text-error: #ea6c6d;
+    --text-success: #6cbf43;
+    --text-warning: #eca944;
+
+    --divider-color: #686868;
+    --icon-color: #c7c7c7;
+    --icon-color-hover: #5c6166;
+    --tag-color: #9e75c7;
+    --tag-background: #ffffff;
+}
+
+::selection { background: #3199e140; }

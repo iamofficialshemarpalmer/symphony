@@ -1,0 +1,13 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy amberbyte (omarchy)
+
+[color]
+background = 'default'
+gradient = 1
+gradient_count = 4
+gradient_color_1 = '#e68e0d'
+gradient_color_2 = '#D35F5F'
+gradient_color_3 = '#bebebe'
+gradient_color_4 = '#FFC107'

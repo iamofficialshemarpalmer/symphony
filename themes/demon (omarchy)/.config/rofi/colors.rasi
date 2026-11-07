@@ -1,0 +1,31 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy demon (omarchy) */
+
+* {
+    primary: #7A7D80;
+    primary-container: #4A4E3D;
+    on-primary: #0F0F0F;
+    on-primary-container: #E0D4C2;
+    secondary: #7B726A;
+    secondary-container: #292828;
+    on-secondary: #0F0F0F;
+    on-secondary-container: #E0D4C2;
+    surface: #0F0F0F;
+    surface-dim: #0F0F0F;
+    surface-bright: #292828;
+    surface-container-lowest: #0F0F0F;
+    surface-container-low: #0F0F0F;
+    surface-container: #292828;
+    surface-container-high: #292828;
+    surface-container-highest: #292828;
+    on-surface: #0F0F0F;
+    on-surface-variant: #BDB5AA;
+    outline: #292828;
+    outline-variant: #292828;
+    error: #8B0000;
+    on-error: #0F0F0F;
+    inverse-surface: #0F0F0F;
+    inverse-on-surface: #0F0F0F;
+}

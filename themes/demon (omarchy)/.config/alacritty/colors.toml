@@ -1,0 +1,28 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy demon (omarchy)
+
+[colors.primary]
+background = '#0F0F0F'
+foreground = '#E0D4C2'
+
+[colors.normal]
+black = '#0F0F0F'
+red = '#8B0000'
+green = '#3A403B'
+yellow = '#E24C00'
+blue = '#4A4E3D'
+magenta = '#7B726A'
+cyan = '#7A7D80'
+white = '#BDB5AA'
+
+[colors.bright]
+black = '#292828'
+red = '#8B0000'
+green = '#305432'
+yellow = '#E24C00'
+blue = '#496529'
+magenta = '#7B726A'
+cyan = '#7A7D80'
+white = '#BDB5AA'

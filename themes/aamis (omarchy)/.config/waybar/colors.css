@@ -1,0 +1,10 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy aamis (omarchy) */
+
+@define-color waybar_accent rgba(234, 220, 204, 0.18);
+@define-color waybar_accent_fg @on_background;
+@define-color on_background #eadccc;
+@define-color surface_container #0f0f0f;
+@define-color error #e25d6c;

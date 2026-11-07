@@ -1,0 +1,60 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+
+   Theme: Omarchy batou (omarchy)
+   Based on midnight by refact0r
+   https://github.com/refact0r/midnight-discord */
+
+@import url('https://refact0r.github.io/midnight-discord/build/midnight.css');
+
+:root {
+    --font: 'figtree';
+    --corner-text: 'Symphony';
+
+    /* status indicators */
+    --online-indicator: #a5a297;
+    --dnd-indicator: #e19e74;
+    --idle-indicator: #c6c4b0;
+    --streaming-indicator: #8a8575;
+
+    /* accent colors */
+    --accent-1: #605d5b;
+    --accent-2: #605d5b;
+    --accent-3: #605d5b;
+    --accent-4: #2e2b29;
+    --accent-5: #474442;
+    --mention: #2e2b29;
+    --mention-hover: #474442;
+
+    /* text colors */
+    --text-0: #121212;
+    --text-1: #a4a4a4;
+    --text-2: #a4a4a4;
+    --text-3: #dbd9d3;
+    --text-4: #383735;
+    --text-5: #383735;
+
+    /* background colors */
+    --bg-1: #121212;
+    --bg-2: #262626;
+    --bg-3: #262626;
+    --bg-4: #121212;
+    --hover: #262626;
+    --active: #605d5b;
+    --message-hover: #262626;
+
+    /* corner roundness */
+    --roundness-xl: 22px;
+    --roundness-l: 20px;
+    --roundness-m: 16px;
+    --roundness-s: 12px;
+    --roundness-xs: 10px;
+    --roundness-xxs: 8px;
+
+    --discord-icon: none;
+    --moon-icon: block;
+}
+
+.selected_f5eb4b, .selected_f6f816 .link_d8bfb3 { color: var(--text-0) !important; background: var(--accent-3) !important; }
+.selected_f6f816 .link_d8bfb3 * { color: var(--text-0) !important; fill: var(--text-0) !important; }

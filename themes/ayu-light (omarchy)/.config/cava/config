@@ -1,0 +1,13 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy ayu-light (omarchy)
+
+[color]
+background = 'default'
+gradient = 1
+gradient_count = 4
+gradient_color_1 = '#3199e1'
+gradient_color_2 = '#9e75c7'
+gradient_color_3 = '#46ba94'
+gradient_color_4 = '#6cbf43'

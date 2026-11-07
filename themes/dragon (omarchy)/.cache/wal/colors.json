@@ -1,0 +1,28 @@
+{
+    "_comment": "Symphony Generated - Omarchy dragon (omarchy)",
+    "wallpaper": "/home/kpalmer/dotfiles/themes/dragon (omarchy)/wallpaper",
+    "alpha": "100",
+    "special": {
+        "background": "#180D15",
+        "foreground": "#EBE5D6",
+        "cursor": "#7ABAA9"
+    },
+    "colors": {
+        "color0": "#251218",
+        "color1": "#FF3D5A",
+        "color2": "#78A682",
+        "color3": "#F7E1C7",
+        "color4": "#5298C4",
+        "color5": "#C479A9",
+        "color6": "#7ABAA9",
+        "color7": "#EBE5D6",
+        "color8": "#3A1A22",
+        "color9": "#FF3D5A",
+        "color10": "#93C999",
+        "color11": "#FFF6EA",
+        "color12": "#7AAFD0",
+        "color13": "#D995BB",
+        "color14": "#95CACA",
+        "color15": "#FFFFFF"
+    }
+}

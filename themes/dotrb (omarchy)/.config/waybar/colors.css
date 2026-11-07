@@ -1,0 +1,10 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy dotrb (omarchy) */
+
+@define-color waybar_accent rgba(245, 245, 245, 0.18);
+@define-color waybar_accent_fg @on_background;
+@define-color on_background #f5f5f5;
+@define-color surface_container #121212;
+@define-color error #D66E36;

@@ -1,0 +1,42 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy dragon (omarchy) */
+
+.theme-dark, .theme-light {
+    --background-primary: #180D15;
+    --background-primary-alt: #2c2129;
+    --background-secondary: #2c2129;
+    --background-secondary-alt: #2c2129;
+    --background-modifier-hover: #2c2129;
+    --background-modifier-border: #3A1A22;
+
+    --text-normal: #EBE5D6;
+    --text-muted: #EBE5D6;
+    --text-faint: #3A1A22;
+    --text-on-accent: #180D15;
+
+    --interactive-accent: #5298C4;
+    --interactive-accent-hover: #7ABAA9;
+    --text-accent: #5298C4;
+    --text-accent-hover: #7ABAA9;
+
+    --link-color: #5298C4;
+    --link-color-hover: #7ABAA9;
+    --link-external-color: #7ABAA9;
+
+    --code-background: #2c2129;
+    --code-normal: #EBE5D6;
+
+    --text-error: #FF3D5A;
+    --text-success: #78A682;
+    --text-warning: #F7E1C7;
+
+    --divider-color: #3A1A22;
+    --icon-color: #EBE5D6;
+    --icon-color-hover: #EBE5D6;
+    --tag-color: #C479A9;
+    --tag-background: #2c2129;
+}
+
+::selection { background: #5298C440; }

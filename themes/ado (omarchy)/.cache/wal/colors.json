@@ -1,0 +1,28 @@
+{
+    "_comment": "Symphony Generated - Omarchy ado (omarchy)",
+    "wallpaper": "/home/kpalmer/dotfiles/themes/ado (omarchy)/wallpaper",
+    "alpha": "100",
+    "special": {
+        "background": "#0D0D0F",
+        "foreground": "#DFDEE6",
+        "cursor": "#45C1DD"
+    },
+    "colors": {
+        "color0": "#333242",
+        "color1": "#903034",
+        "color2": "#014761",
+        "color3": "#8BB0C6",
+        "color4": "#4545F5",
+        "color5": "#25516A",
+        "color6": "#45C1DD",
+        "color7": "#DAD8E3",
+        "color8": "#908EAA",
+        "color9": "#D7878B",
+        "color10": "#33C6FC",
+        "color11": "#7DC0D3",
+        "color12": "#A2A2FA",
+        "color13": "#76AFCF",
+        "color14": "#A2E0EE",
+        "color15": "#ECEBF1"
+    }
+}

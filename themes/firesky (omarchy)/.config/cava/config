@@ -1,0 +1,13 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy firesky (omarchy)
+
+[color]
+background = 'default'
+gradient = 1
+gradient_count = 4
+gradient_color_1 = '#2a7a80'
+gradient_color_2 = '#c4753d'
+gradient_color_3 = '#40b8b4'
+gradient_color_4 = '#1a6b6e'

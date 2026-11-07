@@ -41,10 +41,18 @@ echo "$INDEX" >"$STATE_FILE"
 
 CURRENT_WALLPAPER="${WALLPAPERS[$INDEX]}"
 
+<<<<<<< Updated upstream
 # Start wallpaper daemon if needed
 "$wallbin" query &>/dev/null || "$wallbin"-daemon --format xrgb
 
 "$wallbin" img "$CURRENT_WALLPAPER" \
+=======
+# Start awww daemon if needed
+awww query &>/dev/null || awww-daemon --format xrgb
+
+# awww set "$CURRENT_WALLPAPER" --transition-type=right --transition-fps 60 --transition-duration=1
+awww set "$CURRENT_WALLPAPER" \
+>>>>>>> Stashed changes
 	--transition-type center \
 	--transition-pos top-right \
 	--transition-fps 120 \
@@ -52,12 +60,21 @@ CURRENT_WALLPAPER="${WALLPAPERS[$INDEX]}"
 	--transition-bezier 0.25,0.1,0.25,1.0
 
 # Update wallpaper symlink to track current wallpaper
+<<<<<<< Updated upstream
 DISPLAYED_WALLPAPER=$("$wallbin" query | grep "currently displaying" | head -1 | sed 's/.*image: //')
+=======
+DISPLAYED_WALLPAPER=$(awww query | grep "currently displaying" | head -1 | sed 's/.*image: //')
+>>>>>>> Stashed changes
 if [ -n "$DISPLAYED_WALLPAPER" ]; then
 	ln -sf "$DISPLAYED_WALLPAPER" "$HOME/dotfiles/themes/dynamic/wallpaper"
 fi
 
+<<<<<<< Updated upstream
 matugen image "$CURRENT_WALLPAPER" -m dark --source-color-index 0
+=======
+# AWWW_PARAMS="--transition-fps 60 --transition-type=any --transition-duration=1"
+matugen image "$CURRENT_WALLPAPER" -m dark
+>>>>>>> Stashed changes
 
 # Update Symphony apps that need special handling
 "$HOME/dotfiles/install/themes/symphony" reload

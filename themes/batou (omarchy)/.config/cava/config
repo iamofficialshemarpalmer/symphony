@@ -1,0 +1,13 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy batou (omarchy)
+
+[color]
+background = 'default'
+gradient = 1
+gradient_count = 4
+gradient_color_1 = '#605d5b'
+gradient_color_2 = '#8a8575'
+gradient_color_3 = '#C2BBB0'
+gradient_color_4 = '#a5a297'

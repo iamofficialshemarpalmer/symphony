@@ -1,0 +1,42 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy ado (omarchy) */
+
+.theme-dark, .theme-light {
+    --background-primary: #0D0D0F;
+    --background-primary-alt: #212123;
+    --background-secondary: #212123;
+    --background-secondary-alt: #212123;
+    --background-modifier-hover: #212123;
+    --background-modifier-border: #908EAA;
+
+    --text-normal: #DFDEE6;
+    --text-muted: #DAD8E3;
+    --text-faint: #908EAA;
+    --text-on-accent: #0D0D0F;
+
+    --interactive-accent: #4545F5;
+    --interactive-accent-hover: #45C1DD;
+    --text-accent: #4545F5;
+    --text-accent-hover: #45C1DD;
+
+    --link-color: #4545F5;
+    --link-color-hover: #45C1DD;
+    --link-external-color: #45C1DD;
+
+    --code-background: #212123;
+    --code-normal: #DFDEE6;
+
+    --text-error: #903034;
+    --text-success: #014761;
+    --text-warning: #8BB0C6;
+
+    --divider-color: #908EAA;
+    --icon-color: #DAD8E3;
+    --icon-color-hover: #DFDEE6;
+    --tag-color: #25516A;
+    --tag-background: #212123;
+}
+
+::selection { background: #4545F540; }

@@ -1,0 +1,13 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy dragon (omarchy)
+
+[color]
+background = 'default'
+gradient = 1
+gradient_count = 4
+gradient_color_1 = '#5298C4'
+gradient_color_2 = '#C479A9'
+gradient_color_3 = '#7ABAA9'
+gradient_color_4 = '#78A682'

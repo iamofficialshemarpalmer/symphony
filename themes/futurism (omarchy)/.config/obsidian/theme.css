@@ -1,0 +1,42 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy futurism (omarchy) */
+
+.theme-dark, .theme-light {
+    --background-primary: #0A1428;
+    --background-primary-alt: #1e283c;
+    --background-secondary: #1e283c;
+    --background-secondary-alt: #1e283c;
+    --background-modifier-hover: #1e283c;
+    --background-modifier-border: #F0F8FF;
+
+    --text-normal: #F0F8FF;
+    --text-muted: #F0F8FF;
+    --text-faint: #F0F8FF;
+    --text-on-accent: #0A1428;
+
+    --interactive-accent: #F0F8FF;
+    --interactive-accent-hover: #F0F8FF;
+    --text-accent: #F0F8FF;
+    --text-accent-hover: #F0F8FF;
+
+    --link-color: #F0F8FF;
+    --link-color-hover: #F0F8FF;
+    --link-external-color: #F0F8FF;
+
+    --code-background: #1e283c;
+    --code-normal: #F0F8FF;
+
+    --text-error: #FF40A3;
+    --text-success: #00BFFF;
+    --text-warning: #5076B2;
+
+    --divider-color: #F0F8FF;
+    --icon-color: #F0F8FF;
+    --icon-color-hover: #F0F8FF;
+    --tag-color: #FF40A3;
+    --tag-background: #1e283c;
+}
+
+::selection { background: #F0F8FF40; }

@@ -1,0 +1,13 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy blackgold (omarchy)
+
+[color]
+background = 'default'
+gradient = 1
+gradient_count = 4
+gradient_color_1 = '#6E6A58'
+gradient_color_2 = '#BFA75D'
+gradient_color_3 = '#7A6A2C'
+gradient_color_4 = '#a3850e'

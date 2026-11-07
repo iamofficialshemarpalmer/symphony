@@ -1,0 +1,13 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy blackwall (omarchy)
+
+[color]
+background = 'default'
+gradient = 1
+gradient_count = 4
+gradient_color_1 = '#ff3535'
+gradient_color_2 = '#ff3535'
+gradient_color_3 = '#742323'
+gradient_color_4 = '#ff3535'

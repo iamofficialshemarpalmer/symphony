@@ -1,0 +1,31 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy ado (omarchy) */
+
+* {
+    primary: #45C1DD;
+    primary-container: #4545F5;
+    on-primary: #0D0D0F;
+    on-primary-container: #DFDEE6;
+    secondary: #25516A;
+    secondary-container: #908EAA;
+    on-secondary: #0D0D0F;
+    on-secondary-container: #DFDEE6;
+    surface: #0D0D0F;
+    surface-dim: #0D0D0F;
+    surface-bright: #908EAA;
+    surface-container-lowest: #0D0D0F;
+    surface-container-low: #0D0D0F;
+    surface-container: #908EAA;
+    surface-container-high: #908EAA;
+    surface-container-highest: #908EAA;
+    on-surface: #0D0D0F;
+    on-surface-variant: #DAD8E3;
+    outline: #908EAA;
+    outline-variant: #908EAA;
+    error: #903034;
+    on-error: #0D0D0F;
+    inverse-surface: #0D0D0F;
+    inverse-on-surface: #0D0D0F;
+}
